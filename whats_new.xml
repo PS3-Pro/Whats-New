@@ -42,7 +42,7 @@
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>News and Updates will be displayed here as soon as they become available.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.jpg</url>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>0</lang>
 			<lang>1</lang>
@@ -213,7 +213,7 @@ Everyone who donated to keep this project alive.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Check out the breaking headlines and news of the moment and around the world.</desc>
-			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.png</url>
+			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.png</url>
 			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>0</lang>
@@ -312,7 +312,7 @@ Click here to download.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Les actualités et mises à jour seront affichées ici dès qu'elles seront disponibles.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.jpg</url>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>2</lang>
 		</mtrl>
@@ -383,7 +383,7 @@ Tous ceux qui ont fait un don pour maintenir ce projet en vie.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Découvrez les gros titres et les actualités du moment et dans le monde.</desc>
-			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.png</url>
+			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.png</url>
 			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>2</lang>
@@ -430,7 +430,7 @@ Cliquez ici pour télécharger.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Las noticias y actualizaciones se mostrarán aquí tan pronto como estén disponibles..</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.jpg</url>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>3</lang>
 		</mtrl>
@@ -501,7 +501,7 @@ Todos los que donaron para mantener vivo este proyecto.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Consulta los titulares de última hora y las noticias del momento y de todo el mundo.</desc>
-			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.png</url>
+			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.png</url>
 			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>3</lang>
@@ -548,7 +548,7 @@ Haga click aquí para descargar.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Nachrichten und Updates werden hier angezeigt, sobald sie verfügbar sind. Zurzeit gibt's leider aber nichts Neues.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.jpg</url>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>4</lang>
 		</mtrl>
@@ -619,7 +619,7 @@ An alle, die gespendet haben, um dieses Projekt am Leben zu erhalten ein großes
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Schauen Sie sich die aktuellen Schlagzeilen und Nachrichten auf der ganzen Welt an.</desc>
-			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.png</url>
+			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.png</url>
 			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>4</lang>
@@ -666,7 +666,7 @@ Klicke hier um es herunterzuladen.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Le notizie e gli aggiornamenti verranno visualizzati qui non appena saranno disponibili.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.jpg</url>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
@@ -737,7 +737,7 @@ Tutti coloro che hanno donato per mantenere vivo questo progetto.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Dai un'occhiata ai titoli e alle notizie mondiali più recenti del momento.</desc>
-			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.png</url>
+			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.png</url>
 			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -786,7 +786,7 @@ Clicca qui per scaricare.</desc>
 -->
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Notícias e atualizações serão exibidas aqui assim que estiverem disponíveis.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.jpg</url>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>7</lang>
 			<lang>17</lang>
@@ -878,7 +878,7 @@ Todos que doaram para manter este projeto vivo.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Confira as principais manchetes e notícias do momento e do mundo.</desc>
-			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.png</url>
+			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.png</url>
 			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>7</lang>
@@ -928,7 +928,7 @@ Clique aqui para baixar.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Новости и обновления будут отображаться здесь, как только они станут доступны.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.jpg</url>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>8</lang>
 		</mtrl>
@@ -998,7 +998,7 @@ Clique aqui para baixar.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Мировые новости.</desc>
-			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.png</url>
+			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.png</url>
 			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>8</lang>
@@ -1045,7 +1045,7 @@ Clique aqui para baixar.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>在有消息和升级的时候 会在这里显示.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.jpg</url>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>11</lang>
 		</mtrl>
@@ -1116,7 +1116,7 @@ Clique aqui para baixar.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>查看现在世界各地的头条新闻.</desc>
-			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.png</url>
+			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.png</url>
 			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>11</lang>
@@ -1163,7 +1163,7 @@ Clique aqui para baixar.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Haberler ve güncellemeler mevcut olduğu zaman burada gösterilecek.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.jpg</url>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>19</lang>
 		</mtrl>
@@ -1234,7 +1234,7 @@ Bu projeyi yaşatmak için bağış yapan herkes burada gösterilir.</desc>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Anında dünyanın dört bir yanındaki son dakika haberlere göz atın.</desc>
-			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news.png</url>
+			<url type="1">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.png</url>
 			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>19</lang>
