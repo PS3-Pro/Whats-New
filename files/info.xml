@@ -1,0 +1,274 @@
+<!-----------------------------------------------------Information------------------------------------------------------------------
+
+<!-- Images Banner
+PNG
+JPG
+
+The Images Must be 485x405 to fill the space. 
+-->
+
+<!-- Flash Banner
+SWF Video Files
+SWF Adobe 9 or less
+Flash Scropt 1.5 or less
+-->
+
+<!-- Video Types
+MOV
+MP4
+-->
+
+<!-- URL Types 
+<url type="1"> PNG
+<url type="2"> JPG
+<url type="3"> GIF
+<url type="72"> SWF
+<target type="u"> MP4,FLV,MOV
+-->
+
+<!-- The following are the tags that can be used to display in specific countries and languages. I always leave the country to all and language to the spoken languages
+but it may be different in your country or not, feel free to use them -->
+
+<!-- Contries	
+<cntry agelmt="0">ae</cntry>	<cntry agelmt="0">ar</cntry>	<cntry agelmt="0">at</cntry>	<cntry agelmt="0">au</cntry>	<cntry agelmt="0">be</cntry>
+<cntry agelmt="0">bg</cntry>	<cntry agelmt="0">bh</cntry>	<cntry agelmt="0">bo</cntry>	<cntry agelmt="0">br</cntry>	<cntry agelmt="0">ca</cntry>
+<cntry agelmt="0">ch</cntry>	<cntry agelmt="0">cl</cntry>	<cntry agelmt="0">cn</cntry>	<cntry agelmt="0">co</cntry>	<cntry agelmt="0">cr</cntry>
+<cntry agelmt="0">cy</cntry>	<cntry agelmt="0">cz</cntry>	<cntry agelmt="0">de</cntry>	<cntry agelmt="0">dk</cntry>	<cntry agelmt="0">ec</cntry>
+<cntry agelmt="0">es</cntry>	<cntry agelmt="0">fi</cntry>	<cntry agelmt="0">fr</cntry>	<cntry agelmt="0">gb</cntry>	<cntry agelmt="0">gr</cntry>
+<cntry agelmt="0">gt</cntry>	<cntry agelmt="0">hk</cntry>	<cntry agelmt="0">hn</cntry>	<cntry agelmt="0">hr</cntry>	<cntry agelmt="0">hu</cntry>
+<cntry agelmt="0">id</cntry>	<cntry agelmt="0">ie</cntry>	<cntry agelmt="0">il</cntry>	<cntry agelmt="0">in</cntry>	<cntry agelmt="0">is</cntry>
+<cntry agelmt="0">it</cntry>	<cntry agelmt="0">jp</cntry>	<cntry agelmt="0">kr</cntry>	<cntry agelmt="0">kw</cntry>	<cntry agelmt="0">lb</cntry>
+<cntry agelmt="0">lu</cntry>	<cntry agelmt="0">mt</cntry>	<cntry agelmt="0">mx</cntry>	<cntry agelmt="0">my</cntry>	<cntry agelmt="0">ni</cntry>
+<cntry agelmt="0">nl</cntry>	<cntry agelmt="0">no</cntry>	<cntry agelmt="0">nz</cntry>	<cntry agelmt="0">om</cntry>	<cntry agelmt="0">pa</cntry>
+<cntry agelmt="0">pe</cntry>	<cntry agelmt="0">ph</cntry>	<cntry agelmt="0">pl</cntry>	<cntry agelmt="0">pt</cntry>	<cntry agelmt="0">py</cntry>
+<cntry agelmt="0">qa</cntry>	<cntry agelmt="0">ro</cntry>	<cntry agelmt="0">rs</cntry>	<cntry agelmt="0">ru</cntry>	<cntry agelmt="0">sa</cntry>
+<cntry agelmt="0">se</cntry>	<cntry agelmt="0">sg</cntry>	<cntry agelmt="0">si</cntry>	<cntry agelmt="0">sk</cntry>	<cntry agelmt="0">sv</cntry>
+<cntry agelmt="0">th</cntry>	<cntry agelmt="0">tr</cntry>	<cntry agelmt="0">tw</cntry>	<cntry agelmt="0">ua</cntry>	<cntry agelmt="0">um</cntry>
+<cntry agelmt="0">us</cntry>	<cntry agelmt="0">uy</cntry>	<cntry agelmt="0">ve</cntry>	<cntry agelmt="0">za</cntry>	<cntry agelmt="0">pepe</cntry>
+-->
+
+<!-- Languages
+<lang>0</lang> Japonese
+<lang>1</lang> English
+<lang>2</lang> French
+<lang>3</lang> Espanish 
+<lang>4</lang> German
+<lang>5</lang> Italian
+<lang>6</lang> Dutch
+<lang>7</lang> Porguese 
+<lang>7</lang> Russian
+<lang>9</lang> Korean
+<lang>10</lang> Chinese T
+<lang>11</lang> Chinese S
+<lang>12</lang> Finish
+<lang>13</lang> Swedish
+<lang>14</lang> Danish
+<lang>15</lang> Norweigan
+<lang>16</lang> Polish
+<lang>17</lang> Portuguese BR
+<lang>18</lang> English GB
+<lang>19</lang> Turkish
+ -->
+ 
+<!-- Functions Examples
+
+unknown - sub-spc (works as normal), rtype, psns:browse?category=%s�u
+
+
+ <target type="u">psgm:play?id=NPJB00001+BLJM67001</target>
+<target type="u">psgm:play?id=BLES80608</target>
+<target type="u">psvp:play?url=http://mercury.dl.playstation.net/cdn/video/ALL/UV0001/NPVA01106_CN/XLe9bOD2uBdGtx31ZCsrKEHf5lpzc0.MP4</target>
+<target type="u">psvp:play?url=http://e1.dl.playstation.net/e1/whatsnew/TakeThat1.mov</target>
+<url type="3">http://nsx.e1-np.dl.playstation.net/fs/nsx/material/6/6f7c9c4c71e7f8dc5b1c9e482c957e8966b79a21-1164.gif</url>
+<target type="u">psns:browse?target=plus</target>
+<target type="c">PN.P3.US-PN.P3.GAME.US-NEWRELEASES</target>
+<target type="c">IV0003-NPXS09016_00--STORE</target>
+<target type="p">IV0003-NPXS09016_00-SWQATEST00000001</target>
+<target type="c">PN.P3.SG-PN.P3.VIDEO.SG-BASE</target>
+<target type="p">NSXWSV-PN.P3.QA-WHATSNEW00000001</target>
+<target type="p">IV0003-NPXS09016_00-SWQATEST00000001</target>
+<target type="u">psns:browse?top=game</target>
+<target type="p">IV0003-NPXS09016_00-SWQATEST00000001</target>
+<target type="p">EP9000-NPEA00057_00-PWIPEOUTHD000001</target>
+<target type="u">psns:mygame?type=playhistory</target>
+<target type="u">psgm:install?contentid=EP4350-NPEB00874_00-NETFLIXRIGEL01EU&amp;url=http%3A%2F%2Fares.dl.playstation.net%2Fcdn%2FEP4350%2FNPEB00874_00%2FYeDCODnsOqtUUAlRBRjFiSOvguIDgPaUSGxXRfwnhbVBKVDxvTLAxwSwbvZKtpBF.pkg</target>
+<target type="u">psgm:play?id=NPJB00766_00</target>
+<target type="u">psgm:play?id=NPIA00005&amp;arg=version%3D1%2E0%26scene%5Fname%3DJ%5FFS%5F3DDGH%5F1%5F181D%5F4365%26spawn%5Fid%3Dblah%26opt1%3D1%26opt2%3D%E6%97%A5%E6%9C%AC%E8%AA%9E</target>
+PS HOME
+<target type="u">psvp:play?url=http%3A%2F%2Fnsx.sec.mgmt.dl.playstation.net%2Ffs%2Fnsx%2Fmaterial%2F3%2F3e8be74b0aba042115378c59eb4a2b4f1a72942e-30479.mp4</target>
+&#xD; pular linha
+Video PS HOME
+<target type="u">psvp:play?url=http%3A%2F%2F122.220.2.164%2Ffs%2Fnsx%2Fmaterial%2F1%2F117c5c3f97c0a22ef314f9d658f9ef0343de6d78-1251.mp4</target>
+psgm:play?id=NPIA00005&amp;arg=version%3D1%2E0%26scene%5Fname%3DJ%5FFS%5F3DDGH%5F1%5F181D%5F4365%26spawn%5Fid%3Dblah%26opt1%3D1%26opt2%3D%E6%97%A5%E6%9C%AC%E8%AA%9E</target>
+
+<!-- Devil's 303 findings
+
+<target type="u">psvp:play?url=http%3A%2F%2Ffp.scea.com%2Fcontent%2FModules%2F988%2Fhtml%2Fflv%2FPulse_116_HDEX_Master_2.flv</target>
+<target type="u">psvp:play?url=http%3A%2F%2Fposeidon%2Edl%2Eplaystation%2Enet%2Fcdn%2FJP0082%2FNPJB90194%5F00%2FFREE%5FCONTENT2aMYNCGqAEUdUQcNf6Uq%2FFINAL%2520FANTASY%2520XIV%2520TRAILER%2520E3%2520ver%2Emp4
+<target type="u">http://www.us.playstation.com/PS3/Games/Gran_Turismo_5_Prologue</target>
+<target type="p">UV0012-NPVA07010_CN-0000000000009862</target>
+<target type="u">psgm:install?contentid=EP0001-CONTENTID_00-0000000000000000&amp;url=http://link_to_package.pkg</target>
+<target type="c">STORE-MSF76008-MEMBERSAREA</target>
+<target type="c">STORE-MSF76009-PS3GAMES</target>
+<target type="u">psns:mygame?type=playhistory</target>
+<target type="u">psns:browse?top=game</target>
+<target type="u">psgm:play?id=BLES80608</target>
+<target type="p">UV0001-NPVA38121_E1-0000000000074590</target>
+<target type="p">DOM006-NPVA41101_E1-0000000000078342</target>
+<target type="p">IV0003-NPXS09016_00-SWQA000000004000?emcid=AAABBBCCC&amp;smcid=XXXYYYZZZ</target>
+<target type="c">PN.P3.US-PN.P3.VIDEO.US-TESTDYNAMIC1</target>
+
+<url type="1">http://nsx.e1-np.dl.playstation.net/fs/nsx/material/8/838b9bdf26220a2c65119fa2ec9f78f8f2b41c8e-1085.png</url>
+<url type="2">http://nsx.e1-np.dl.playstation.net/fs/nsx/material/b/bfb84adea632698a67e8a7c26e409a184b8a30fc-2026.jpg</url>
+<url type="73">http://nsx.e1-np.dl.playstation.net/fs/nsx/material/6/692494c2b5878b9bc57d961b692f6d33f93129b3-1126.swf</url>
+<url type="117">http://nsx.np.dl.playstation.net/nsx/material/6/62c86f1cc8f6e341d0763977f802f55aa1dfb204-973553.png</url>
+<url type="118">http://nsx.np.dl.playstation.net/nsx/material/9/9c5b14cdd0f4f7e2f3e6c03369cfd6f8c8da97b9-397457.jpg</url>
+<url type="121">http://nsx.np.dl.playstation.net/nsx/material/7/708177d2c790b3088231a39f01391f7bd1ea089b-1182834.png</url>
+<url type="123">http://nsx.np.dl.playstation.net/nsx/material/4/4a4436e4b3534fd12496d0173cc506312f6f9b6e-1182835.png</url>
+<url type="124">http://nsx.np.dl.playstation.net/nsx/material/2/2b10e05db5ec51dba6d11a253e3e1063e63f8dca-1182836.png</url>
+<url type="122">http://nsx.np.dl.playstation.net/nsx/material/4/442ed5d88b9a3f2f689ff9d432da40d2f25fe245-1182837.png</url>
+
+
+<data name="416d46fc0d7cf66c64d6c940c227e13a073e8a1a-397458.txt" type="120">
+WW91VHViZSBhbGxvd3MgdXNlcnMgdG8gdmlldyB1c2VyLWNyZWF0ZWQgdmlkZW9zIGFuZCBjb21tZW50cy4gSWYgeW91IHNoYXJlIHlvdXIgZGV2aWNlIHdpdGggY2hpbGRyZW4gd2hvIHVzZSBTb255IEVudGVydGFpbm1lbnQgTmV0d29yayBzdWItYWNjb3VudHMsIHBsZWFzZSBub3RlIHRoZSBuZXR3b3JrIGNvbnRyb2xzIHlvdSBoYXZlIHNldCBmb3IgdGhvc2Ugc3ViLWFjY291bnRzIHdpbGwgbm90IHByZXZlbnQgdGhlbSB1c2luZyBZb3UgVHViZSBvbmNlIHlvdSBkb3dubG9hZCB0aGlzIHNvZnR3YXJlIHRvIHRoaXMgZGV2aWNlLg==</data>
+
+<data name="a6edea9a2348da0692842827d3fd22b5fa37b878-4805.xml" type="33">
+77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gQ3JlYXRlZCB3aXRoIExpcXVpZCBYTUwgU3R1ZGlvIDEuMC43LjAgKGh0dHA6Ly93d3cubGlxdWlkLXRlY2hub2xvZ2llcy5jb20pIC0tPg0KPGNudHJ5aW5mbyB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIg0KCXhzaTpub05hbWVzcGFjZVNjaGVtYUxvY2F0aW9uPSJjbnRyeWluZm8ueHNkIg0KCWdhbWVfYXZhaWxhYmxlX3VudGlsPSI5OTk5LTEyLTMxVDIzOjU5OjU5Ljk5WiIgZ2FtZV9hdmFpbGFibGVfZnJvbT0iMjAwOC0wMy0wMVQwMDowMDowMC4wMFoiDQoJdmlkZW9fYXZhaWxhYmxlX3VudGlsPSI5OTk5LTEyLTMxVDIzOjU5OjU5Ljk5WiIgdmlkZW9fYXZhaWxhYmxlX2Zyb209IjIwMDgtMDctMTZUMDM6MDA6MDAuMDBaIj4NCiAgPGxhYmVsIGxhbmc9IjEiPlVuaXRlZCBTdGF0ZXM8L2xhYmVsPg0KICA8Y3VyZm10IGxhbmc9IjEiIGRlY3BudD0iLiIgc3ltcG9zPSJiIiBzcGFjZT0ibiIgZmlnbnVtPSIzIiBmaWdwbnQ9IiwiIHRheHBydD0ieSIgLz4NCiAgPGRhdGVmbXQgdHlwZT0ibWR5IiAvPg0KICA8YWRkcj4NCiAgICA8ZWxtIHR5cGU9InNhMSIgZWRpdD0ieSIgbGlzdD0ibiIgLz4NCiAgICA8ZWxtIHR5cGU9InNhMiIgZWRpdD0ieSIgbGlzdD0ibiIgLz4NCiAgICA8ZWxtIHR5cGU9InNhMiIgZWRpdD0ieSIgbGlzdD0ibiIgLz4NCiAgICA8ZWxtIHR5cGU9ImN0IiBlZGl0PSJ5IiBsaXN0PSJuIiAvPg0KICAgIDxlbG0gdHlwZT0ic3AiIGVkaXQ9InkiIGxpc3Q9InkiIC8+DQogICAgPGVsbSB0eXBlPSJwYyIgZWRpdD0ieSIgbGlzdD0ibiIgb3NrPSJudW0iIC8+DQogICAgPGVsbSB0eXBlPSJjciIgZWRpdD0ibiIgbGlzdD0ibiIgLz4NCiAgPC9hZGRyPg0KICA8Y2hhcmdlPg0KICAgIDxlbG0gdHlwZT0iY2MiIC8+DQogICAgPGVsbSB0eXBlPSJwc25jIiAvPg0KICA8L2NoYXJnZT4NCjwvY250cnlpbmZvPg==</data>
+
+-->
+
+<!-- Original file just for curiosity sake
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nsx ver="1.0" rev="1305" lt-id="131" anno="" min-sys-ver="">
+    <spc id="33537" rep="t" multi="o" anno="csxad=0">
+        <mtrl id="1080778673" mname="Catalog Banner A" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-03-01T00:50:22.000Z" anno="picks=1">
+            <url type="2">http://nsx.mgmt.dl.playstation.net/fs/nsx/material/8/8542c657fc54707d69f0863b970249b8e89553bc-1207262.jpg</url>
+            <target type="c">STORE-MSF76009-PS3GAMES</target>
+            <cntry agelmt="0">ar</cntry>
+            <cntry agelmt="0">bo</cntry>
+            <cntry agelmt="0">br</cntry>
+            <cntry agelmt="0">ca</cntry>
+            <cntry agelmt="0">cl</cntry>
+            <cntry agelmt="0">co</cntry>
+            <cntry agelmt="0">cr</cntry>
+            <cntry agelmt="0">ec</cntry>
+            <cntry agelmt="0">gt</cntry>
+            <cntry agelmt="0">hn</cntry>
+            <cntry agelmt="0">mx</cntry>
+            <cntry agelmt="0">ni</cntry>
+            <cntry agelmt="0">pa</cntry>
+            <cntry agelmt="0">pe</cntry>
+            <cntry agelmt="0">py</cntry>
+            <cntry agelmt="0">sv</cntry>
+            <cntry agelmt="0">us</cntry>
+            <cntry agelmt="0">uy</cntry>
+            <lang>1</lang>
+        </mtrl>
+        <mtrl id="1080778612" mname="Add-ons Banner A" from="2019-02-20T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-02-20T19:51:39.000Z" anno="picks=1">
+            <url type="2">http://nsx.mgmt.dl.playstation.net/fs/nsx/material/3/3d31e1d216647b227f6f1218a613c2491a38597e-1206977.jpg</url>
+            <target type="c">STORE-MSF76009-ADDONSBYTITLE</target>
+            <cntry agelmt="0">ar</cntry>
+            <cntry agelmt="0">bo</cntry>
+            <cntry agelmt="0">br</cntry>
+            <cntry agelmt="0">ca</cntry>
+            <cntry agelmt="0">cl</cntry>
+            <cntry agelmt="0">co</cntry>
+            <cntry agelmt="0">cr</cntry>
+            <cntry agelmt="0">ec</cntry>
+            <cntry agelmt="0">gt</cntry>
+            <cntry agelmt="0">hn</cntry>
+            <cntry agelmt="0">mx</cntry>
+            <cntry agelmt="0">ni</cntry>
+            <cntry agelmt="0">pa</cntry>
+            <cntry agelmt="0">pe</cntry>
+            <cntry agelmt="0">py</cntry>
+            <cntry agelmt="0">sv</cntry>
+            <cntry agelmt="0">us</cntry>
+            <cntry agelmt="0">uy</cntry>
+            <lang>1</lang>
+        </mtrl>
+        <mtrl id="1080778616" mname="Apps Banner A" from="2019-02-20T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-02-20T19:54:32.000Z" anno="picks=1">
+            <url type="2">http://nsx.mgmt.dl.playstation.net/fs/nsx/material/6/653ab0e8355f5bc6c7177106aba0c0d401da53f9-1206981.jpg</url>
+            <target type="c">STORE-MSF76009-ALLAPPS</target>
+            <cntry agelmt="0">ar</cntry>
+            <cntry agelmt="0">bo</cntry>
+            <cntry agelmt="0">br</cntry>
+            <cntry agelmt="0">ca</cntry>
+            <cntry agelmt="0">cl</cntry>
+            <cntry agelmt="0">co</cntry>
+            <cntry agelmt="0">cr</cntry>
+            <cntry agelmt="0">ec</cntry>
+            <cntry agelmt="0">gt</cntry>
+            <cntry agelmt="0">hn</cntry>
+            <cntry agelmt="0">mx</cntry>
+            <cntry agelmt="0">ni</cntry>
+            <cntry agelmt="0">pa</cntry>
+            <cntry agelmt="0">pe</cntry>
+            <cntry agelmt="0">py</cntry>
+            <cntry agelmt="0">sv</cntry>
+            <cntry agelmt="0">us</cntry>
+            <cntry agelmt="0">uy</cntry>
+            <lang>1</lang>
+        </mtrl>
+        <mtrl id="1080778680" mname="Themes Banner A" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-03-01T00:55:08.000Z" anno="">
+            <url type="2">http://nsx.mgmt.dl.playstation.net/fs/nsx/material/f/f8a0ced0c728b032b094463a0ea34748b1be7fb2-1207269.jpg</url>
+            <target type="c">STORE-MSF76009-PS3ALLTHEMES</target>
+            <cntry agelmt="0">ar</cntry>
+            <cntry agelmt="0">bo</cntry>
+            <cntry agelmt="0">br</cntry>
+            <cntry agelmt="0">ca</cntry>
+            <cntry agelmt="0">cl</cntry>
+            <cntry agelmt="0">co</cntry>
+            <cntry agelmt="0">cr</cntry>
+            <cntry agelmt="0">ec</cntry>
+            <cntry agelmt="0">gt</cntry>
+            <cntry agelmt="0">hn</cntry>
+            <cntry agelmt="0">mx</cntry>
+            <cntry agelmt="0">ni</cntry>
+            <cntry agelmt="0">pa</cntry>
+            <cntry agelmt="0">pe</cntry>
+            <cntry agelmt="0">py</cntry>
+            <cntry agelmt="0">sv</cntry>
+            <cntry agelmt="0">us</cntry>
+            <cntry agelmt="0">uy</cntry>
+            <lang>1</lang>
+        </mtrl>
+        <mtrl id="1080778669" mname="Avatars Banner A" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-03-01T00:47:02.000Z" anno="">
+            <url type="2">http://nsx.mgmt.dl.playstation.net/fs/nsx/material/7/7f1262f4dcbb7ef813420dc5bc415ce5bdfdf4e4-1207257.jpg</url>
+            <target type="c">STORE-MSF76009-AVATARSALLAVATAR</target>
+            <cntry agelmt="0">ar</cntry>
+            <cntry agelmt="0">bo</cntry>
+            <cntry agelmt="0">br</cntry>
+            <cntry agelmt="0">ca</cntry>
+            <cntry agelmt="0">cl</cntry>
+            <cntry agelmt="0">co</cntry>
+            <cntry agelmt="0">cr</cntry>
+            <cntry agelmt="0">ec</cntry>
+            <cntry agelmt="0">gt</cntry>
+            <cntry agelmt="0">hn</cntry>
+            <cntry agelmt="0">mx</cntry>
+            <cntry agelmt="0">ni</cntry>
+            <cntry agelmt="0">pa</cntry>
+            <cntry agelmt="0">pe</cntry>
+            <cntry agelmt="0">py</cntry>
+            <cntry agelmt="0">sv</cntry>
+            <cntry agelmt="0">us</cntry>
+            <cntry agelmt="0">uy</cntry>
+            <lang>1</lang>
+        </mtrl>
+        <mtrl id="1080778676" mname="Movies Banner A" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-03-01T00:52:35.000Z" anno="">
+            <url type="2">http://nsx.mgmt.dl.playstation.net/fs/nsx/material/7/7ac8ebd3de7c54b21a76593a79b8a55580c67477-1207265.jpg</url>
+           
+            <cntry agelmt="0">ca</cntry>
+            <cntry agelmt="0">us</cntry>
+            <lang>1</lang>
+        </mtrl>
+        <mtrl id="1080778684" mname="TV Banner A" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-03-01T01:00:39.000Z" anno="">
+            <url type="2">http://nsx.mgmt.dl.playstation.net/fs/nsx/material/b/b8c6cd5e49a97628c79a61f16c56a20b738ea97f-1207273.jpg</url>
+            <target type="c">STORE-MSF76009-SEASONPASSV_E_C</target>
+            <cntry agelmt="0">ca</cntry>
+            <cntry agelmt="0">us</cntry>
+            <lang>1</lang>
+        </mtrl>
+    </spc>
+</nsx> -->

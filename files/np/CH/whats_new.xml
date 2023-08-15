@@ -1,0 +1,255 @@
+<!-- Coded for PS3™ 4K Pro by Luan Teles -->
+
+<nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
+	<spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
+		<!-- 11 Chinese S -->
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+			<desc>欢迎来到PS3™ 4K Pro, 请享受新的和改进的功能.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/welcome.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/welcome.swf</url>
+			<target type="u">psvp:play?url=http://raw.githack.com/PS3-4K-Pro/Whats-New/main/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>升级你的PS3™为PS4™.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/upgrade.jpg</url>
+			<target type="u">psvp:play?url=http://raw.githack.com/PS3-4K-Pro/Whats-New/main/media/ads/rick_astley.mp4</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>在有消息和升级的时候 会在这里显示.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>帮助翻译为其他语言怎么样?</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/translation.jpg</url>
+			<target type="u">psns:mygame?type=playhistory</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>如果你能帮忙翻译,请前往PSX-PLACE.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/psx-place.jpg</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/psx-place.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>在家里享受你的游戏并在新冠疫情时注意安全.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/covid.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/covid.swf</url>
+			<target type="u">psgm:play?id=BLES80608</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>你有品牌或产品想在这里推广吗?</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/ads.jpg</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/contact.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>使用在线电台收听你喜欢的音乐.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/radio.jpg</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/radio.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>使用在线聊天功能 &amp; 结交新朋友.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/chat.jpg</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/chat.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>加入我们的Telegram.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/telegram.jpg</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>支持: 如果你喜欢我的项目, 请考虑捐点儿款吧!.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/donation.jpg</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/donate.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>专业版成员!
+所有捐款保证这个项目存在的人.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/hall_of_fame.jpg</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/members.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>查看现在世界各地的头条新闻.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.jpg</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/breaking_news.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>获取今天, 今晚 &amp; 明天的天气预报.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/weather.jpg</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/weather_forecast.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>当前的本地时间.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/clock.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/clock.swf</url>
+			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/world_time_server.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!-- Disabled -->
+		<mtrl id="0" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
+			<desc>新版本现已可用: v5.X
+点击此处下载.</desc>
+			<url type="2">URL</url>
+			<target type="u">ACTION</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+
+<!------------------------------------------------HOLYDAYS AND COMMEMORATIVE DAYS------------------------------------------->
+		<!--Valentine's Day -->
+		<mtrl id="0" from="2023-02-14T00:00:00.000Z" until="2023-02-15T00:00:00.000Z" lastm="2023-02-14T00:00:00.000Z" anno="emergency=1">
+			<desc>情人节快乐!
+空气中弥漫着爱情的味道.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/valentine%27s_day.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/valentine%27s_day.swf</url>
+			<target type="u">http://localhost/install.ps3?to=/dev_hdd0/theme&url=https://github.com/PS3-4K-Pro/Whats-New/raw/main/Resources/Themes/ValentinesDay.p3t;/wait.ps3?20;/install.ps3/dev_hdd0/theme/ValentinesDay.p3t</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!-- Easter -->
+		<mtrl id="0" from="2023-04-21T00:00:00.000Z" until="2023-04-22T00:00:00.000Z" lastm="2023-04-21T00:00:00.000Z" anno="emergency=1">
+			<desc>复活节快乐!
+庆祝生命.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/easter_day.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/easter_day.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!-- Mother's Day -->
+		<mtrl id="0" from="2023-05-09T00:00:00.000Z" until="2023-05-10T00:00:00.000Z" lastm="2023-05-09T00:00:00.000Z" anno="emergency=1">
+			<desc>母亲节快乐!
+献给我们生命中最勇敢的女人.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/mother%27s_day.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/mother%27s_day.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!-- Childen's Day -->
+		<mtrl id="0" from="2023-06-14T00:00:00.000Z" until="2023-06-15T00:00:00.000Z" lastm="2023-06-14T00:00:00.000Z" anno="emergency=1">
+			<desc>儿童节快乐!
+永远不要让你的童真消失.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/children%27s_day.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/children%27s_day.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!-- Father's Day -->
+		<mtrl id="0" from="2023-06-16T00:00:00.000Z" until="2023-06-17T00:00:00.000Z" lastm="2023-06-16T00:00:00.000Z" anno="emergency=1">
+			<desc>父亲节快乐!
+献给我们生命中最不可思议的男人.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/father%27s_day.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/father%27s_day.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!--Independence Day -->
+		<mtrl id="0" from="2023-07-04T00:00:00.000Z" until="2023-07-05T00:00:00.000Z" lastm="2023-07-04T00:00:00.000Z" anno="emergency=1">
+			<desc>独立日快乐!
+庆祝你们国家的历史.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/independence%27s_day.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/independence%27s_day.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!--Labor Day -->
+		<mtrl id="0" from="2023-09-07T00:00:00.000Z" until="2023-09-08T00:00:00.000Z" lastm="2023-09-07T00:00:00.000Z" anno="emergency=1">
+			<desc>劳动节快乐!
+感谢你的辛勤工作和奉献.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/labor%27s_day.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/labor%27s_day.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!--Halloween-->
+		<mtrl id="0" from="2023-10-31T00:00:00.000Z" until="2023-11-01T00:00:00.000Z" lastm="2023-10-31T00:00:00.000Z" anno="emergency=1">
+			<desc>不给糖就捣蛋?
+万圣节快乐!</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/halloween.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays//halloween.swf</url>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!--Day of the Dead -->
+		<mtrl id="0" from="2023-11-02T00:00:00.000Z" until="2023-11-03T00:00:00.000Z" lastm="2023-11-02T00:00:00.000Z" anno="emergency=1">
+			<desc>亡灵节快乐!
+纪念你记忆中那位已去世的人.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/day_of_the_dead.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/day_of_the_dead.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!--Thanksgiving Day -->
+		<mtrl id="0" from="2023-11-26T00:00:00.000Z" until="2023-11-27T00:00:00.000Z" lastm="2023-11-26T00:00:00.000Z" anno="emergency=1">
+			<desc>感恩节快乐!
+总有一件值得感谢的事.</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/thanksgiving_day.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/thanksgiving_day.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!--Christmas Eve-->
+		<mtrl id="0" from="2023-12-24T00:00:00.000Z" until="2023-12-25T00:00:00.000Z" lastm="2023-12-24T00:00:00.000Z" anno="emergency=1">
+			<desc>平安夜快乐!
+与所有亲人聚会.
+</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/christmas_eve.jpg</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!--Christmas-->
+		<mtrl id="0" from="2023-12-25T00:00:00.000Z" until="2023-12-26T00:00:00.000Z" lastm="2023-12-25T00:00:00.000Z" anno="emergency=1">
+			<desc>圣诞节快乐!
+祝你的家人平安幸福</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/christimas.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/christimas.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+		<!--New Year-->
+		<mtrl id="0" from="2023-01-01T00:00:00.000Z" until="2023-01-02T00:00:00.000Z" lastm="2023-01-01T00:00:00.000Z" anno="emergency=1">
+			<desc>新年快乐!
+原今年充满幸运,爱与幸福!</desc>
+			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/new_year.jpg</url>
+			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/new_year.swf</url>
+			<target type="u"/>
+			<cntry agelmt="0">all</cntry>
+			<lang>11</lang>
+		</mtrl>
+	</spc>
+</nsx>
