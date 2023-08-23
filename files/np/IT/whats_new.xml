@@ -5,109 +5,109 @@
 		<!-- 05 Italian -->
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 			<desc>Benvenuto in PS3™ 4K Pro, goditi le nuove funzionalità migliorate.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/welcome.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/welcome.swf</url>
-			<target type="u">psvp:play?url=http://raw.githack.com/PS3-4K-Pro/Whats-New/main/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/welcome.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/welcome.swf</url>
+			<target type="u">psvp:play?url=http:/ps3-4k-pro.github.io/Whats-New/main/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Aggiorna a PS4™.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/upgrade.jpg</url>
-			<target type="u">psvp:play?url=http://raw.githack.com/PS3-4K-Pro/Whats-New/main/media/ads/rick_astley.mp4</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/upgrade.jpg</url>
+			<target type="u">psvp:play?url=http:/ps3-4k-pro.github.io/Whats-New/main/media/ads/rick_astley.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Le notizie e gli aggiornamenti verranno visualizzati qui non appena saranno disponibili.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/news_and_updates.jpg</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Che ne dici di aiutare a tradurre le funzionalità in altre lingue?</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/translation.jpg</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/translation.jpg</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Se puoi aiutare a tradurre, visita PSX-PLACE.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/psx-place.jpg</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/psx-place.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/psx-place.jpg</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Goditi i tuoi giochi stando a casa al sicuro durante la pandemia COVID-19.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/covid.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/covid.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/covid.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/covid.swf</url>
 			<target type="u">psgm:play?id=BLES80608</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Hai un marchio o un prodotto e vuoi che venga promosso qui?</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/ads.jpg</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/contact.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/ads.jpg</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/contact.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Goditi la tua musica preferita con la radio online.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/radio.jpg</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/radio.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/radio.jpg</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Incontra nuove persone e fai nuove amicizie utilizzando la funzione di chat online.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/chat.jpg</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/chat.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/chat.jpg</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/chat.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Unisciti a noi su Telegram.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/telegram.jpg</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/telegram.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/telegram.jpg</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Supporto: Se ti piace il mio lavoro, considera di fare una piccola donazione !</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/donation.jpg</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/donate.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/donation.jpg</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/donate.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Membri Pro!
 Tutti coloro che hanno donato per mantenere vivo questo progetto.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/htutto_of_fame.jpg</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/members.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/htutto_of_fame.jpg</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/members.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Dai un'occhiata ai titoli e alle notizie mondiali più recenti del momento.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/breaking_news.jpg</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/breaking_news.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/breaking_news.jpg</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Ottieni le previsioni per oggi, stasera e il tempo di domani.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/weather.jpg</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/weather_forecast.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/weather.jpg</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Ora locale attuale.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/clock.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/ads/clock.swf</url>
-			<target type="u">http://raw.githack.com/PS3-4K-Pro/Pages/main/files/world_time_server.html</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/clock.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/clock.swf</url>
+			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/world_time_server.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
@@ -126,9 +126,9 @@ Clicca qui per scaricare.</desc>
 		<mtrl id="0" from="2023-02-14T00:00:00.000Z" until="2023-02-15T00:00:00.000Z" lastm="2023-02-14T00:00:00.000Z" anno="emergency=1">
 			<desc>Buon San Valentino!
 L'amore è nell'aria.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/valentine%27s_day.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/valentine%27s_day.swf</url>
-			<target type="u">http://localhost/install.ps3?to=/dev_hdd0/theme&url=https://github.com/PS3-4K-Pro/Whats-New/raw/main/Resources/Themes/ValentinesDay.p3t;/wait.ps3?20;/install.ps3/dev_hdd0/theme/ValentinesDay.p3t</target>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/valentine%27s_day.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/valentine%27s_day.swf</url>
+			<target type="u">http:/localhost/install.ps3?to=/dev_hdd0/theme&url=https:/github.com/PS3-4K-Pro/Whats-New/Resources/Themes/ValentinesDay.p3t;/wait.ps3?20;/install.ps3/dev_hdd0/theme/ValentinesDay.p3t</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
@@ -136,8 +136,8 @@ L'amore è nell'aria.</desc>
 		<mtrl id="0" from="2023-04-21T00:00:00.000Z" until="2023-04-22T00:00:00.000Z" lastm="2023-04-21T00:00:00.000Z" anno="emergency=1">
 			<desc>Buona Pasqua!
 Celebrate la vita.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/easter_day.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/easter_day.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/easter_day.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/easter_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -146,8 +146,8 @@ Celebrate la vita.</desc>
 		<mtrl id="0" from="2023-05-09T00:00:00.000Z" until="2023-05-10T00:00:00.000Z" lastm="2023-05-09T00:00:00.000Z" anno="emergency=1">
 			<desc>Buona festa della mamma
 A tutte le donne coraggiose della nostra vita.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/mother%27s_day.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/mother%27s_day.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/mother%27s_day.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/mother%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -156,8 +156,8 @@ A tutte le donne coraggiose della nostra vita.</desc>
 		<mtrl id="0" from="2023-06-14T00:00:00.000Z" until="2023-06-15T00:00:00.000Z" lastm="2023-06-14T00:00:00.000Z" anno="emergency=1">
 			<desc>Buona giornata dei bambini felici
 Non lasciare mai che il bambino dentro di te muoia.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/children%27s_day.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/children%27s_day.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/children%27s_day.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/children%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -166,8 +166,8 @@ Non lasciare mai che il bambino dentro di te muoia.</desc>
 		<mtrl id="0" from="2023-06-16T00:00:00.000Z" until="2023-06-17T00:00:00.000Z" lastm="2023-06-16T00:00:00.000Z" anno="emergency=1">
 			<desc>Buona festa del papà
 A tutti gli uomini più incredibili della nostra vita.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/father%27s_day.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/father%27s_day.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/father%27s_day.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/father%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -176,8 +176,8 @@ A tutti gli uomini più incredibili della nostra vita.</desc>
 		<mtrl id="0" from="2023-07-04T00:00:00.000Z" until="2023-07-05T00:00:00.000Z" lastm="2023-07-04T00:00:00.000Z" anno="emergency=1">
 			<desc>Felice giorno dell'indipendenza!
 Celebrate la storia del vostro paese.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/independence%27s_day.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/independence%27s_day.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/independence%27s_day.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/independence%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -186,8 +186,8 @@ Celebrate la storia del vostro paese.</desc>
 		<mtrl id="0" from="2023-09-07T00:00:00.000Z" until="2023-09-08T00:00:00.000Z" lastm="2023-09-07T00:00:00.000Z" anno="emergency=1">
 			<desc>Buona festa dei lavoratori!
 Grazie per il duro lavoro e per la dedizione.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/labor%27s_day.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/labor%27s_day.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/labor%27s_day.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/labor%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -196,8 +196,8 @@ Grazie per il duro lavoro e per la dedizione.</desc>
 		<mtrl id="0" from="2023-10-31T00:00:00.000Z" until="2023-11-01T00:00:00.000Z" lastm="2023-10-31T00:00:00.000Z" anno="emergency=1">
 			<desc>Dolcetto o scherzetto?
 Buon Halloween!</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/halloween.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays//halloween.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/halloween.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/halloween.swf</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
@@ -205,8 +205,8 @@ Buon Halloween!</desc>
 		<mtrl id="0" from="2023-11-02T00:00:00.000Z" until="2023-11-03T00:00:00.000Z" lastm="2023-11-02T00:00:00.000Z" anno="emergency=1">
 			<desc>Buon giorno dei morti!
 Celebrate il ricordo degli amati che sono morti.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/day_of_the_dead.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/day_of_the_dead.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/day_of_the_dead.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/day_of_the_dead.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -215,8 +215,8 @@ Celebrate il ricordo degli amati che sono morti.</desc>
 		<mtrl id="0" from="2023-11-26T00:00:00.000Z" until="2023-11-27T00:00:00.000Z" lastm="2023-11-26T00:00:00.000Z" anno="emergency=1">
 			<desc>Felice giorno del Ringraziamento!
 C'è sempre qualcosa per cui essere grati.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/thanksgiving_day.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/thanksgiving_day.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/thanksgiving_day.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/thanksgiving_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -225,7 +225,7 @@ C'è sempre qualcosa per cui essere grati.</desc>
 		<mtrl id="0" from="2023-12-24T00:00:00.000Z" until="2023-12-25T00:00:00.000Z" lastm="2023-12-24T00:00:00.000Z" anno="emergency=1">
 			<desc>Buon Natale!
 Radunati con tutti i tuoi cari.</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/christmas_eve.jpg</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/christmas_eve.jpg</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -234,8 +234,8 @@ Radunati con tutti i tuoi cari.</desc>
 		<mtrl id="0" from="2023-12-25T00:00:00.000Z" until="2023-12-26T00:00:00.000Z" lastm="2023-12-25T00:00:00.000Z" anno="emergency=1">
 			<desc>Buon Natale!
 Pace e benedizioni a te e alla tua famiglia!</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/christimas.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/christimas.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/christimas.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/christimas.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
@@ -244,8 +244,8 @@ Pace e benedizioni a te e alla tua famiglia!</desc>
 		<mtrl id="0" from="2023-01-01T00:00:00.000Z" until="2023-01-02T00:00:00.000Z" lastm="2023-01-01T00:00:00.000Z" anno="emergency=1">
 			<desc>Felice anno nuovo!
 Possa quest'anno essere pieno di fortuna, amore e felicità!</desc>
-			<url type="2">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/new_year.jpg</url>
-			<url type="73">http://github.com/PS3-4K-Pro/Whats-New/raw/main/media/holydays/new_year.swf</url>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/new_year.jpg</url>
+			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/new_year.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
