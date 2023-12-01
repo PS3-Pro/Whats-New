@@ -7,14 +7,14 @@
 			<desc>Benvenuto in PS3™ 4K Pro, goditi le nuove funzionalità migliorate.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/welcome.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/welcome.swf</url>
-			<target type="u">psvp:play?url=http:/ps3-4k-pro.github.io/Whats-New/main/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
+			<target type="u">psvp:play?url=http://ps3-4k-pro.github.io/Whats-New/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Aggiorna a PS4™.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/upgrade.jpg</url>
-			<target type="u">psvp:play?url=http:/ps3-4k-pro.github.io/Whats-New/main/media/ads/rick_astley.mp4</target>
+			<target type="u">psvp:play?url=http://ps3-4k-pro.github.io/Whats-New/media/ads/rick_astley.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
@@ -34,7 +34,7 @@
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Se puoi aiutare a tradurre, visita PSX-PLACE.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/psx-place.jpg</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/psx-place.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
@@ -49,35 +49,35 @@
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Hai un marchio o un prodotto e vuoi che venga promosso qui?</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/ads.jpg</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/contact.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/contact.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Goditi la tua musica preferita con la radio online.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/radio.jpg</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/radio.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Incontra nuove persone e fai nuove amicizie utilizzando la funzione di chat online.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/chat.jpg</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/chat.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/chat.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Unisciti a noi su Telegram.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/telegram.jpg</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/telegram.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Supporto: Se ti piace il mio lavoro, considera di fare una piccola donazione !</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/donation.jpg</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/donate.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/donate.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
@@ -85,21 +85,21 @@
 			<desc>Membri Pro!
 Tutti coloro che hanno donato per mantenere vivo questo progetto.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/htutto_of_fame.jpg</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/members.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/members.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Dai un'occhiata ai titoli e alle notizie mondiali più recenti del momento.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/breaking_news.jpg</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/breaking_news.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
 		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Ottieni le previsioni per oggi, stasera e il tempo di domani.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/weather.jpg</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/weather_forecast.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
@@ -107,7 +107,7 @@ Tutti coloro che hanno donato per mantenere vivo questo progetto.</desc>
 			<desc>Ora locale attuale.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/clock.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/clock.swf</url>
-			<target type="u">http:/ps3-4k-pro.github.io/Pages/main/files/world_time_server.html</target>
+			<target type="u">http://ps3-4k-pro.github.io/Pages/main/files/world_time_server.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>5</lang>
 		</mtrl>
