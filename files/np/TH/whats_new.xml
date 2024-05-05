@@ -13,77 +13,48 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Upgrade your PS3™ to PS4™.</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/upgrade.jpg</url>
-			<target type="u">psvp:play?url=http://ps3-4k-pro.github.io/Whats-New/media/ads/rick_astley.mp4</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>News and Updates will be displayed here as soon as they become available.</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/news_and_updates.jpg</url>
-			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>How about helping translating the features to other languages?</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/translation.jpg</url>
-			<target type="u">psns:mygame?type=playhistory</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 			<desc>Check the latest news about consoles on PSX-PLACE.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/psx-place.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Enjoy your games at home and stay safe while on the COVID-19 pandemic.</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/covid.jpg</url>
-			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/covid.swf</url>
-			<target type="u">psgm:play?id=BLES80608</target>
+		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>News and Updates will be displayed here as soon as they become available.</desc>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Do you have a brand or product and want it to be promoted here?</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/ads.jpg</url>
-			<target type="u">http://ps3-4k-pro.github.io/Pages/files/contact.html</target>
+		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>How about helping translating the features to other languages?</desc>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/translation.jpg</url>
+			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Enjoy your favorite music with online radio.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/radio.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Meet new people &amp; make new friends using the online chat feature.</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/chat.jpg</url>
-			<target type="u">http://ps3-4k-pro.github.io/Pages/files/chat.html</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>all</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="6" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Join us on the Telegram.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/telegram.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Support: If you like my work, please consider making a small donation!.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/donation.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/donate.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Pro Members!
 Everyone who donated to keep this project alive.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/hall_of_fame.jpg</url>
@@ -91,21 +62,21 @@ Everyone who donated to keep this project alive.</desc>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Check out the breaking headlines and news of the moment and around the world.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/breaking_news.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="10" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Get the forecast for today, tonight &amp; tomorrow's weather.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/weather.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<mtrl id="11" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Current local time.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/clock.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/clock.swf</url>
@@ -113,7 +84,7 @@ Everyone who donated to keep this project alive.</desc>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
+		<mtrl id="13" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
 			<desc>Unofficial©Stores
 Support for custom stores are available now!</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/clock.jpg</url>
@@ -124,7 +95,7 @@ Support for custom stores are available now!</desc>
 			<lang>all</lang>
 		</mtrl>
 		<!-- Disabled -->
-		<mtrl id="0" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
+		<mtrl id="13" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
 			<desc>A New Update is Available: v5.X
 Click here to download.</desc>
 			<url type="2">URL</url>
