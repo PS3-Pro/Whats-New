@@ -1,251 +1,210 @@
 <!-- Coded for PS3™ 4K Pro by Luan Teles -->
 
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
-	<spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
-		<!-- 08 Russian -->
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-			<desc>PS3™ 4K Pro - это новый внешнешний вид, а так улучшенные функции вашей PS3™.</desc>
+	<spc anno="csxad=1&adspace=2,3,4,5,6,7,8,9,10" id="1" multi="o" rep="t">
+	<!-- Main Ads -->
+		<mtrl id="1" mname="Welcome" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-09-12T15:10:00.000Z" anno="emergency=1">
+			<name>Welcome</name>
+			<owner>Luan Teles</owner>
+			<desc>Welcome to PS3™ 4K Pro, enjoy the new and improved features.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/welcome.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/welcome.swf</url>
 			<target type="u">psvp:play?url=http://ps3-4k-pro.github.io/Whats-New/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Обнови свою консоль PS3™ до PS4™.</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/upgrade.jpg</url>
-			<target type="u">psvp:play?url=http://ps3-4k-pro.github.io/Whats-New/media/ads/rick_astley.mp4</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Новости и обновления будут отображаться здесь, как только они станут доступны.</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/news_and_updates.jpg</url>
-			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Хотите помочь в переводе PS3™ 4K Pro для других языков?</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/translation.jpg</url>
-			<target type="u">psns:mygame?type=playhistory</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Решили помочь с переводом, посетите сайт "psx-place.com".</desc>
+		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>Check the latest news about the scene on PSX-PLACE.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/psx-place.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Играйте дома и оставайтесь в бесопасности во время пандемии COVID-19.</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/covid.jpg</url>
-			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/covid.swf</url>
-			<target type="u">psgm:play?id=BLES80608</target>
+		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+			<desc>News and Updates will be displayed here as soon as they become available.</desc>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/news_and_updates.jpg</url>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>У Вас есть бренд или продукт, который Вы хотите продвигать здесь?</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/ads.jpg</url>
-			<target type="u">http://ps3-4k-pro.github.io/Pages/files/contact.html</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Наслаждайтесь любимой музыкой с помощью онлайн радио.</desc>
+		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Enjoy your favorite music with online radio.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/radio.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Знакомьтесь и заводите новых друзей в онлайн чате PS3™ 4K Pro.</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/chat.jpg</url>
-			<target type="u">http://ps3-4k-pro.github.io/Pages/files/chat.html</target>
+		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>How about helping translating the features to other languages?</desc>
+			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/translation.jpg</url>
+			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Присоединяйтесь к нам в Telegram.</desc>
+		<mtrl id="6" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Join us on the Telegram.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/telegram.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Хотите поддержать развитие проекта PS3™ 4K Pro?</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/donation.jpg</url>
-			<target type="u">http://ps3-4k-pro.github.io/Pages/files/donate.html</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Всё о тех кто поддержал развитие проекта.</desc>
-			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/hall_of_fame.jpg</url>
-			<target type="u">http://ps3-4k-pro.github.io/Pages/files/members.html</target>
-			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
-		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Мировые новости.</desc>
+		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Check out the breaking headlines and news of the moment and around the world.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/breaking_news.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Погода.</desc>
+		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Get the forecast for today, tonight &amp; tomorrow's weather.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/weather.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/weather_forecast.html</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
-		<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Местное время.</desc>
+		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Current local time.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/clock.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/ads/clock.swf</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/world_time_server.html</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
-		<!-- Disabled -->
-		<mtrl id="0" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
-			<desc>Доступно обновление PS3™ 4K Pro: v.5.X. 
-Нажмите здесь, чтобы его загрузить.</desc>
+		<mtrl id="10" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
+			<desc>A New Update is Available: v5.X</desc>
 			<url type="2">URL</url>
 			<target type="u">ACTION</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 
 <!------------------------------------------------HOLYDAYS AND COMMEMORATIVE DAYS------------------------------------------->
-		<mtrl id="0" from="2023-02-14T00:00:00.000Z" until="2023-02-15T00:00:00.000Z" lastm="2023-02-14T00:00:00.000Z" anno="emergency=1">
-			<desc>С Днём Святого Валентина!
-Любовь в воздухе.</desc>
+		<!-- Valentine's Day -->
+		<mtrl id="0" mname="Valentine's Day" from="2024-02-14T00:00:00.000Z" until="2024-02-15T00:00:00.000Z" lastm="2024-02-14T00:00:00.000Z" anno="emergency=1">
+			<desc>Valentine's Day!
+			Love is in the air.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/valentine%27s_day.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/valentine%27s_day.swf</url>
 			<target type="u">http:/localhost/install.ps3?to=/dev_hdd0/theme&url=https:/github.com/PS3-4K-Pro/Whats-New/Resources/Themes/ValentinesDay.p3t;/wait.ps3?20;/install.ps3/dev_hdd0/theme/ValentinesDay.p3t</target>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!-- Easter -->
-		<mtrl id="0" from="2023-05-02T00:00:00.000Z" until="2023-05-03T00:00:00.000Z" lastm="2023-05-02T00:00:00.000Z" anno="emergency=1">
-			<desc>С Пасхой!
-Праздновать жизнь.</desc>
+		<mtrl id="0" mname="Easter" from="2024-04-04T00:00:00.000Z" until="2024-04-05T00:00:00.000Z" lastm="2024-04-04T00:00:00.000Z" anno="emergency=1">
+			<desc>Happy Easter!
+			Celebrate the life.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/easter_day.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/easter_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!-- Mother's Day -->
-		<mtrl id="0" from="2023-05-09T00:00:00.000Z" until="2023-05-10T00:00:00.000Z" lastm="2023-05-09T00:00:00.000Z" anno="emergency=1">
-			<desc>С Днём Матери!
-Для всех самых смелых женщин в нашей жизни.</desc>
+		<mtrl id="0" mname="Easter" from="2024-05-09T00:00:00.000Z" until="2024-05-10T00:00:00.000Z" lastm="2024-05-09T00:00:00.000Z" anno="emergency=1">
+			<desc>Happy Mother's Day
+			For all the bravest women of our lives.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/mother%27s_day.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/mother%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!-- Childen's Day -->
-		<mtrl id="0" from="2023-06-01T00:00:00.000Z" until="2023-06-02T00:00:00.000Z" lastm="2023-06-01T00:00:00.000Z" anno="emergency=1">
-			<desc>С Днём Защиты Детей!
-Никогда не позволяйте ребенку внутри вас умереть.</desc>
+		<mtrl id="0" mname="Easter" from="2024-06-13T00:00:00.000Z" until="2024-06-14T00:00:00.000Z" lastm="2024-06-13T00:00:00.000Z" anno="emergency=1">
+			<desc>Happy Children's Day
+			Never let the child inside you die.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/children%27s_day.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/children%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!-- Father's Day -->
-		<mtrl id="0" from="2023-06-20T00:00:00.000Z" until="2023-06-21T00:00:00.000Z" lastm="2023-06-20T00:00:00.000Z" anno="emergency=1">
-			<desc>С Днём Отца!
-Для всех самых невероятных мужчин в нашей жизни.</desc>
+		<mtrl id="0" mname="Easter" from="2024-06-20T00:00:00.000Z" until="2024-06-21T00:00:00.000Z" lastm="2024-06-20T00:00:00.000Z" anno="emergency=1">
+			<desc>Happy Father's Day
+			For all the most incredible men in our lives.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/father%27s_day.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/father%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!--Independence Day -->
-		<mtrl id="0" from="2023-06-12T00:00:00.000Z" until="2023-06-13T00:00:00.000Z" lastm="2023-06-12T00:00:00.000Z" anno="emergency=1">
-			<desc>С Днём России!
-Празднуйте историю своей страны.</desc>
+		<mtrl id="0" mname="Easter" from="2024-07-04T00:00:00.000Z" until="2024-07-05T00:00:00.000Z" lastm="2024-07-04T00:00:00.000Z" anno="emergency=1">
+			<desc>Independence Day!
+			Celebrate the history of your country.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/independence%27s_day.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/independence%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!--Labor Day -->
-		<mtrl id="0" from="2023-05-01T00:00:00.000Z" until="2023-05-02T00:00:00.000Z" lastm="2023-05-01T00:00:00.000Z" anno="emergency=1">
-			<desc>С Днём Труда!</desc>
+		<mtrl id="0" mname="Easter" from="2024-09-07T00:00:00.000Z" until="2024-09-08T00:00:00.000Z" lastm="2024-09-07T00:00:00.000Z" anno="emergency=1">
+			<desc>Labor Day!
+			Thank you for the hard work and dedication.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/labor%27s_day.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/labor%27s_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!--Halloween-->
-		<mtrl id="0" from="2023-10-31T00:00:00.000Z" until="2023-11-01T00:00:00.000Z" lastm="2023-10-31T00:00:00.000Z" anno="emergency=1">
-			<desc>Счастливого Хэллоуина!
-Кошелек или жизнь?</desc>
+		<mtrl id="0" mname="Easter" from="2024-10-31T00:00:00.000Z" until="2024-11-01T00:00:00.000Z" lastm="2024-10-31T00:00:00.000Z" anno="emergency=1">
+			<desc>Trick or treat?
+			Happy Halloween!</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/halloween.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/halloween.swf</url>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!--Day of the Dead -->
-		<mtrl id="0" from="2023-05-11T00:00:00.000Z" until="2023-05-12T00:00:00.000Z" lastm="2023-05-11T00:00:00.000Z" anno="emergency=1">
-			<desc>С Радоницей!
-Отпразднуйте память о ушедших из жизни любимых.</desc>
+		<mtrl id="0" mname="Easter" from="2024-11-01T00:00:00.000Z" until="2024-11-02T00:00:00.000Z" lastm="2024-11-01T00:00:00.000Z" anno="emergency=1">
+			<desc>Happy Day of the Dead!
+			Celebrate the memory of the beloved ones that passed away.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/day_of_the_dead.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/day_of_the_dead.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!--Thanksgiving Day -->
-		<mtrl id="0" from="2023-09-21T00:00:00.000Z" until="2023-09-22T00:00:00.000Z" lastm="2023-09-21T00:00:00.000Z" anno="emergency=1">
-			<desc>С Праздником Урожая!
-Всегда есть за что быть благодарным.</desc>
+		<mtrl id="0" mname="Easter" from="2024-11-25T00:00:00.000Z" until="2024-11-26T00:00:00.000Z" lastm="2024-11-25T00:00:00.000Z" anno="emergency=1">
+			<desc>Thanksgiving Day!
+			There's always something to be thankful for.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/thanksgiving_day.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/thanksgiving_day.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!--Christmas Eve-->
-		<mtrl id="0" from="2023-01-06T00:00:00.000Z" until="2023-01-07T00:00:00.000Z" lastm="2023-01-06T00:00:00.000Z" anno="emergency=1">
-			<desc>С Рождественским Сочельником!
-Соберитесь со всеми своими близкими.</desc>
+		<mtrl id="0" mname="Easter" from="2024-12-24T00:00:00.000Z" until="2024-12-25T00:00:00.000Z" lastm="2024-12-24T00:00:00.000Z" anno="emergency=1">
+			<desc>Christmas Eve!
+			Gather with all your loved ones.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/christmas_eve.jpg</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!--Christmas-->
-		<mtrl id="0" from="2023-01-07T00:00:00.000Z" until="2023-01-08T00:00:00.000Z" lastm="2023-01-07T00:00:00.000Z" anno="emergency=1">
-			<desc>С Рождеством Христовом!
-Мира и благословения вам и вашей семье!</desc>
+		<mtrl id="0" mname="Easter" from="2024-12-25T00:00:00.000Z" until="2024-12-26T00:00:00.000Z" lastm="2024-12-25T00:00:00.000Z" anno="emergency=1">
+			<desc>Merry Christmas!
+			Peace and Blessings to you and your family!</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/christimas.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/christimas.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 		<!--New Year-->
-		<mtrl id="0" from="2023-01-01T00:00:00.000Z" until="2023-01-02T00:00:00.000Z" lastm="2023-01-01T00:00:00.000Z" anno="emergency=1">
-			<desc>С Новым Годом!
-Пусть этот год будет наполнен удачей, любовью и счастьем!</desc>
+		<mtrl id="0" mname="Easter" from="2024-01-01T00:00:00.000Z" until="2024-01-02T00:00:00.000Z" lastm="2024-01-01T00:00:00.000Z" anno="emergency=1">
+			<desc>Happy New Year!
+			May this year be filled with luck, love and happiness!</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/new_year.jpg</url>
 			<url type="73">http://ps3-4k-pro.github.io/Whats-New/media/holydays/new_year.swf</url>
 			<target type="u"/>
 			<cntry agelmt="0">all</cntry>
-			<lang>8</lang>
+			<lang>all</lang>
 		</mtrl>
 	</spc>
 </nsx>
