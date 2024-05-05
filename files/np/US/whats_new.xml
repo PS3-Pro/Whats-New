@@ -79,7 +79,7 @@
 
 <!------------------------------------------------HOLYDAYS AND COMMEMORATIVE DAYS------------------------------------------->
 		<!-- Valentine's Day -->
-		<mtrl id="0" mname="Valentine's Day" from="2024-05-04T00:00:00.000Z" until="2024-05-05T00:00:00.000Z" lastm="2024-02-14T00:00:00.000Z" anno="emergency=1">
+		<mtrl id="0" mname="Valentine's Day" from="2024-05-04T00:00:00.000Z" until="2024-05-06T00:00:00.000Z" lastm="2024-05-04T00:00:00.000Z" anno="emergency=1">
 			<desc>Valentine's Day!
 			Love is in the air.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/holydays/valentine%27s_day.jpg</url>
