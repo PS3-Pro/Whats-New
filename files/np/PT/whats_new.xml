@@ -47,7 +47,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+		<!-- <mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Confira as principais manchetes e notícias do momento e do mundo.</desc>
 			<url type="2">http://ps3-4k-pro.github.io/Whats-New/media/ads/breaking_news.jpg</url>
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/breaking_news.html</target>
@@ -68,7 +68,7 @@
 			<target type="u">http://ps3-4k-pro.github.io/Pages/files/world_time_server.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<mtrl id="10" lastm="2000-09-12T15:10:00.000Z" until="2000-12-31T23:59:00.000Z">
 			<desc>Uma nova versão está disponível: v5.X</desc>
 			<url type="2">URL</url>
