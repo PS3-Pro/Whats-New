@@ -6,7 +6,7 @@
 		<mtrl id="1" mname="Welcome" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-09-12T15:10:00.000Z" anno="emergency=1">
 			<name>Welcome</name>
 			<owner>Luan Teles</owner>
-			<desc>Welcome to PS3™ 4K Pro, enjoy the new and improved features.</desc>
+			<desc>Welcome to PS3 ReClassic!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/welcome.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/welcome.swf</url>
 			<target type="u">psvp:play?url=https://ps3-pro.github.io/Whats-New/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
@@ -14,41 +14,41 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Check the latest news about the scene on PSX-PLACE.</desc>
+			<desc>Snakeball is arriving to the PlayStation®Store in November 2007!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/psx-place.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>News and Updates will be displayed here as soon as they become available.</desc>
+			<desc>Sign up for the Interactive World Cup now</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/news_and_updates.png</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Enjoy your favorite music with online radio.</desc>
+			<desc>Playstation®Store Update June 29</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/radio.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>How about helping translating the features to other languages?</desc>
+			<desc>PlayStation Blog Weekly Recap</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/translation.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="6" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Join us on the Telegram.</desc>
+			<desc>The world of Singstar will rock you!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<!-- <mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Check out the breaking headlines and news of the moment and around the world.</desc>
+			<desc> Watchmen: The End is Nigh Part 1 Appears in PlayStation®Store on April 10th 2009</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/breaking_news.html</target>
 			<cntry agelmt="0">all</cntry>
